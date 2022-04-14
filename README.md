@@ -1,5 +1,8 @@
 # RNTodoApp
-This is a very simple todo app that allows users to create a list, create a new list item and delete the list item. It is build using react native. 
+This is a very simple todo app that is build using react native. Below are its basic functions:
 
+1. Able to create a todo list
+2. Able to create a todo list item
+3. Able to mark todo list item as completed
+4. Able to delete todo list item
 
-![image](https://user-images.githubusercontent.com/43500596/163303879-53c4fdc1-dc0c-4e0f-93d0-67508b7f67da.png)
